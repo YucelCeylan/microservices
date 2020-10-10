@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: currency-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Yucel
+Implementation-Vendor-Id: com.springboot.microservice
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://spring.io/projects/spring-boot/currency-se
+ rvice
+Created-By: Maven Integration for Eclipse
+
