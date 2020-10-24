@@ -24,5 +24,5 @@ Kur bilgilerini barındıran ve onları api olarak sunan servistir. Sistemde ver
 
 ## Servisler Arasındaki İlişki
 
-![](C:\Users\Yucel\GitRepo\microservices\service_diagram.png)
+![](service_diagram.png)
 
